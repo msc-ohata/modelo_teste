@@ -4,7 +4,7 @@ Especificação do Projeto de Teste
 1. Introdução
 --------------
 1.1 Objetivo
-   Descrever os objetivos, escopo e abordagem geral dos testes para o [Nome do Projeto].
+   Descrever os objetivos, escopo e abordagem geral dos testes para o [Nome do Projeto].&nbsp;
 1.2 Escopo
    Listar os módulos ou funcionalidades do sistema que serão abrangidos pelos testes.
 
